@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40704425350",
+    "project_id": "thelms-try",
+    "storage_bucket": "thelms-try.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40704425350:android:91f4abd3386fb75e984007",
+        "android_client_info": {
+          "package_name": "com.example.the_lms_try"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40704425350-vihvpt5kmc9ud3fjc4vrotq9jptrfkb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCarTYh0DMp6jmp11bk5hvEmHhWrGvuMsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40704425350-vihvpt5kmc9ud3fjc4vrotq9jptrfkb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
